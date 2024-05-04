@@ -1,0 +1,33 @@
+
+<div id="a">
+    <h1>About</h1>
+    <p>
+        This app is my first app
+    </p>
+    <button (click)="changeColor()">{{buttontitle}}</button>
+    <!--<button (click)="color='black';bgcolor='lightgray'">Bright</button>-->
+</div>
+<div class="d">
+    <h1>Our Team</h1>
+</div>
+  <div [style.Color]="color" [style.backgroundColor]="bgcolor" class="b">
+    <img src="assets/empty-profile.png">
+    <pre>
+    {{name1}}
+    {{id1}}
+    {{email1}}
+    {{jobTitle1}}
+    </pre>
+  </div>
+<!--
+  <div [style.Color]="color" [style.backgroundColor]="bgcolor" class="c">
+    <img src="assets/empty-profile.png">
+    <pre>
+      {{name2}}
+      {{id2}}
+      {{email2}}
+      {{jobTitle2}}
+    </pre>
+  
+  </div>
+-->
