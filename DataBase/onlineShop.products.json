@@ -1,0 +1,130 @@
+[{
+  "_id": {
+    "$oid": "669e2ae27c5000c940197141"
+  },
+  "name": "Product 1",
+  "description": "1860|$20 Copper K4A|Clark Gruber|NGC|MS-62-BN",
+  "price": 13946.63,
+  "imageURL": "assets/Clark Gruber.png",
+  "link": "https://www.austincoins.com/1860-20-copper-k4a-clark-gruber-ngc-ms-62-bn/",
+  "quantity": 10,
+  "minquantity": 5,
+  "category": "Bronze"
+},
+{
+  "_id": {
+    "$oid": "669e2ae27c5000c940197142"
+  },
+  "name": "product 2",
+  "description": "Ptolemy III Bronze Cyrene NGC XF 4x3",
+  "price": 952.88,
+  "imageURL": "assets/cyrene.png",
+  "link": "https://www.austincoins.com/ptolemy-iii-cyrene-ngc-xf-4x3/",
+  "quantity": 100,
+  "minquantity": 5,
+  "category": "Bronze"
+},
+{
+  "_id": {
+    "$oid": "669e2ae27c5000c940197143"
+  },
+  "name": "product 3",
+  "description": "Gordian III | Bronze Sestertius | Very Fine",
+  "price": 219.16,
+  "imageURL": "assets/Sestertius.png",
+  "link": "https://www.austincoins.com/roman-gordian-iii-bronze-sestertius-very-fine-quality/",
+  "quantity": 100,
+  "minquantity": 5,
+  "category": "Bronze"
+},
+{
+  "_id": {
+    "$oid": "669e2ae27c5000c940197144"
+  },
+  "name": "Product 4",
+  "description": "1891 | Carson City | Morgan Silver Dollar | PCGS MS61-Prooflike",
+  "price": 1155,
+  "imageURL": "assets/Carson.png",
+  "link": "https://www.austincoins.com/1891-cc-morgan-silver-dollar-pcgs-ms61-pl/",
+  "quantity": 100,
+  "minquantity": 5,
+  "category": "Silver"
+},
+{
+  "_id": {
+    "$oid": "669e2ae27c5000c940197145"
+  },
+  "name": "Product 5",
+  "description": "Phoenicia | Silver Quarter Shekel |CHVF | 5x3",
+  "price": 3925,
+  "imageURL": "assets/Phoenicia.png",
+  "link": "https://www.austincoins.com/phoenicia-silver-quarter-shekel-chvf-5x3/",
+  "quantity": 100,
+  "minquantity": 5,
+  "category": "Silver"
+},
+{
+  "_id": {
+    "$oid": "669e2ae27c5000c940197146"
+  },
+  "name": "Product 6",
+  "description": "Alexander III | Silver Tetradrachm | EP | CH-AU 4x4",
+  "price": 2872.58,
+  "imageURL": "assets/Alexander.png",
+  "link": "https://www.austincoins.com/alexander-iii-silver-tetradrachm-ep-ch-au-4x4/",
+  "quantity": 100,
+  "minquantity": 5,
+  "category": "Silver"
+},
+{
+  "_id": {
+    "$oid": "669e2ae27c5000c940197147"
+  },
+  "name": "Product 7",
+  "description": "1606 |Spain|2 Escudo|MS 62",
+  "price": 10467.19,
+  "imageURL": "assets/Escudo.png",
+  "link": "https://www.austincoins.com/1606-593-spain-2-escudo-ms-62/",
+  "quantity": 100,
+  "minquantity": 5,
+  "category": "Gold"
+},
+{
+  "_id": {
+    "$oid": "669e2ae27c5000c940197148"
+  },
+  "name": "Product 8",
+  "description": "1857 |Coin Boxed Set|$20 Lib SSCA|$10 Horseman",
+  "price": 9975,
+  "imageURL": "assets/Horseman.png",
+  "link": "https://www.austincoins.com/1857-2-coin-boxed-set-20-lib-ssca-10-horseman/",
+  "quantity": 100,
+  "minquantity": 5,
+  "category": "Gold"
+},
+{
+  "_id": {
+    "$oid": "669e2ae27c5000c940197149"
+  },
+  "name": "Product 9",
+  "description": "1556-98 S D|Spain|Seville|2E|MS-64",
+  "price": 9023.44,
+  "imageURL": "assets/Seville.png",
+  "link": "https://www.austincoins.com/1556-98-s-d-seville-spain-2e-ms-64/",
+  "quantity": 100,
+  "minquantity": 5,
+  "category": "Gold"
+},
+{
+  "_id": {
+    "$oid": "669e2ae27c5000c94019714a"
+  },
+  "name": "Product 10",
+  "description": "1846 |$2.5 Liberty|NGC MS 61",
+  "price": 8950,
+  "imageURL": "assets/NGC.png",
+  "link": "https://www.austincoins.com/1846-o-2-5-liberty-ngc-ms-61/",
+  "quantity": 100,
+  "minquantity": 5,
+  "category": "Gold"
+}]

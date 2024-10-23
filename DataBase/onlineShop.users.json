@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "669e28497c5000c94019712d"
+  },
+  "email": "example1@example.com",
+  "password": "password1",
+  "name": "John Doe",
+  "gender": "male",
+  "image": "/assets/male.jpg",
+  "age": 22
+},
+{
+  "_id": {
+    "$oid": "669e28497c5000c94019712e"
+  },
+  "email": "example2@example.com",
+  "password": "password2",
+  "name": "Jane Doe",
+  "gender": "female",
+  "image": "/assets/female.jpg",
+  "age": 50
+},
+{
+  "_id": {
+    "$oid": "669e28497c5000c94019712f"
+  },
+  "email": "lalabala5@gmail.com",
+  "password": "1234",
+  "name": "lala bala",
+  "gender": "female",
+  "image": "/assets/female.jpg",
+  "age": 40
+},
+{
+  "_id": {
+    "$oid": "669e28497c5000c940197130"
+  },
+  "email": "stevenberg@gmail.com",
+  "password": "12345",
+  "name": "steven berg",
+  "gender": "male",
+  "image": "/assets/male.jpg",
+  "age": 19
+},
+{
+  "_id": {
+    "$oid": "669e28497c5000c940197131"
+  },
+  "email": "gen@gmail.com",
+  "password": "12345",
+  "name": "gen",
+  "gender": "female",
+  "image": "/assets/female.jpg",
+  "age": 18
+},
+{
+  "_id": {
+    "$oid": "669e28497c5000c940197132"
+  },
+  "email": "martin@gmail.com",
+  "password": "12345",
+  "name": "martin",
+  "gender": "male",
+  "image": "/assets/male.jpg",
+  "age": 30
+}]
