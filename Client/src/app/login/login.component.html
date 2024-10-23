@@ -1,0 +1,19 @@
+  <div class="col-4 mt-5 mx-auto">
+  <form [formGroup]="loginForm" (ngSubmit)="login()">
+    <h1>Login</h1>
+    <div class="form-group">
+    <label>Email:</label>
+    <input type="email" name="email" class="form-control" placeholder="enter email" formControlName="email" />
+    <div *ngIf="!loginForm.controls['email']?.valid && (loginForm.controls['email']?.dirty || loginForm.controls['email']?.touched)" style="color: red;">invalid email</div>
+   </div>
+    <div class="form-group">
+    <label>Password:</label>
+    <input type="password" class="form-control" name="password" placeholder="enter password" formControlName="password" />
+    </div>
+    <div class="row">
+    <button [disabled]="!loginForm.valid" type="submit" class="btn btn-success">submit</button>
+    <br>
+    <p>new?<a routerLink="../register">register</a></p>
+    </div> 
+  </form>
+  </div>
