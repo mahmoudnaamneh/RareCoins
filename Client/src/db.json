@@ -19,7 +19,7 @@
     {
       "id": "ae97",
       "email": "lalabala5@gmail.com",
-      "password": "MAty1234",
+      "password": "1234",
       "name": "lala bala",
       "gender": "female",
       "image": "/assets/female.jpg"
@@ -27,7 +27,7 @@
     {
       "id": "f167",
       "email": "stevenberg@gmail.com",
-      "password": "MAty12345",
+      "password": "12345",
       "name": "steven berg",
       "gender": "male",
       "image": "/assets/male.jpg"
@@ -35,7 +35,7 @@
     {
       "id": "02fd",
       "email": "gen@gmail.com",
-      "password": "MAty12",
+      "password": "12345",
       "name": "gen",
       "gender": "female",
       "image": "/assets/female.jpg"
@@ -43,7 +43,7 @@
     {
       "id": "357d",
       "email": "martin@gmail.com",
-      "password": "MAty12345",
+      "password": "12345",
       "name": "martin",
       "gender": "male",
       "image": "/assets/male.jpg"
